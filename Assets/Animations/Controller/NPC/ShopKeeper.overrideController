@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShopKeeper
+  m_Controller: {fileID: 9100000, guid: 79ace2bffa46295499e966bebb563456, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 1d68b161a74e42546807474d0cb2b32e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 498b9f29e625f1340b727f70a7b2e904, type: 2}

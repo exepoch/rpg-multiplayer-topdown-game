@@ -1,0 +1,179 @@
+{
+    "m_SelectedDeviceId": "baa82087",
+    "m_SelectedPackage": {
+        "deviceId": "baa82087",
+        "name": "co.devtagon.viseversa",
+        "processId": 11312,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "baa82087",
+            "name": "com.miui.home",
+            "processId": 2690,
+            "exited": false
+        },
+        {
+            "deviceId": "baa82087",
+            "name": "co.devtagon.viseversa",
+            "processId": 4490,
+            "exited": true
+        },
+        {
+            "deviceId": "baa82087",
+            "name": "co.devtagon.viseversa",
+            "processId": 31085,
+            "exited": true
+        },
+        {
+            "deviceId": "baa82087",
+            "name": "co.devtagon.viseversa",
+            "processId": 8020,
+            "exited": true
+        },
+        {
+            "deviceId": "baa82087",
+            "name": "co.devtagon.viseversa",
+            "processId": 3589,
+            "exited": true
+        },
+        {
+            "deviceId": "baa82087",
+            "name": "co.devtagon.viseversa",
+            "processId": 12994,
+            "exited": true
+        },
+        {
+            "deviceId": "baa82087",
+            "name": "co.devtagon.viseversa",
+            "processId": 16561,
+            "exited": false
+        },
+        {
+            "deviceId": "baa82087",
+            "name": "co.devtagon.viseversa",
+            "processId": 3013,
+            "exited": false
+        },
+        {
+            "deviceId": "baa82087",
+            "name": "co.devtagon.viseversa",
+            "processId": 14940,
+            "exited": false
+        },
+        {
+            "deviceId": "baa82087",
+            "name": "co.devtagon.viseversa",
+            "processId": 19433,
+            "exited": false
+        },
+        {
+            "deviceId": "baa82087",
+            "name": "co.devtagon.viseversa",
+            "processId": 21231,
+            "exited": false
+        },
+        {
+            "deviceId": "baa82087",
+            "name": "co.devtagon.viseversa",
+            "processId": 5777,
+            "exited": false
+        },
+        {
+            "deviceId": "baa82087",
+            "name": "co.devtagon.viseversa",
+            "processId": 14623,
+            "exited": false
+        },
+        {
+            "deviceId": "baa82087",
+            "name": "co.devtagon.viseversa",
+            "processId": 15625,
+            "exited": false
+        },
+        {
+            "deviceId": "baa82087",
+            "name": "co.devtagon.viseversa",
+            "processId": 5151,
+            "exited": false
+        },
+        {
+            "deviceId": "baa82087",
+            "name": "co.devtagon.viseversa",
+            "processId": 8730,
+            "exited": false
+        },
+        {
+            "deviceId": "baa82087",
+            "name": "co.devtagon.viseversa",
+            "processId": 11312,
+            "exited": false
+        },
+        {
+            "deviceId": "FQAE4SKFGMYH85LJ",
+            "name": "com.DefaultCompany.ViseVersa",
+            "processId": 29669,
+            "exited": false
+        },
+        {
+            "deviceId": "FQAE4SKFGMYH85LJ",
+            "name": "com.DefaultCompany.ViseVersa",
+            "processId": 31124,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

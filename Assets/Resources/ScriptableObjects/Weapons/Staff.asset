@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1108af1e0387e4a419a0be25e756a320, type: 3}
+  m_Name: Staff
+  m_EditorClassIdentifier: 
+  displayName: Staff
+  key: staff
+  catalog: Weapons
+  price: 0
+  currency: CO
+  durability: 0
+  animatorOverride: {fileID: 22100000, guid: bebdbd0481d9d7d4fb1e3aa892d5f3eb, type: 2}
+  equippedPrefab: {fileID: 7273428669381907035, guid: 321690278117c7d4f9f04b73288269e6, type: 3}
+  projectile: {fileID: -5765988399412133546, guid: cee082e6e74363444b250ab2d5742dab, type: 3}
+  damage: 5
+  weaponRange: 60
+  isRightHanded: 1
+  isRanged: 1
+  _handledWeapon: {fileID: 0}
+  projectileUrl: Prefabs/Other/MagicProjectile

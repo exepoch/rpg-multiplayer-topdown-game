@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1108af1e0387e4a419a0be25e756a320, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  displayName: Axe
+  key: axe
+  catalog: Weapons
+  price: 0
+  currency: CO
+  durability: 0
+  animatorOverride: {fileID: 22100000, guid: bacfd342dc342ca498d60af0195ca0a4, type: 2}
+  equippedPrefab: {fileID: 7273428669381907035, guid: 3baa22099779adc43bbfc96deef97b75, type: 3}
+  projectile: {fileID: 0}
+  weaponDamage: 10
+  weaponRange: 1.4
+  isRightHanded: 1
+  isRanged: 0
